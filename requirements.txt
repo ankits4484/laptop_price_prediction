@@ -1,4 +1,0 @@
-streamlit
-numpy
-Scikit-learn ==1.3.2 
-pandas
